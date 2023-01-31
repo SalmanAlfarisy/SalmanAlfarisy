@@ -1,6 +1,12 @@
 ### Halo Semuanya 👋,
 
-Nama saya Salman Alfarisy, Saya 20 tahun dari Indonesia.
+Saya Salman Alfarisy (he/him) - Saya mahasiswa smt 5, saat ini saya dengan belajar HTML, CSS, JS dan juga UI/UX Design. Kemampuan saya yaitu :
 
-- :arrow_right: Saat ini saya sedang belajar HTML, CSS, JavaScript dan juga UI/UX Design
+![My Skills](https://skillicons.dev/icons?i=html,css,js,figma&theme=light)
+
+### Connect With Me : 
+<a href="">![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)</a>
+<a href="https://www.linkedin.com/in/salmanalfarisy/">![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)</a>
+
+
 
