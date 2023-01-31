@@ -1,16 +1,18 @@
-### Hi there 👋
+### Halo Semuanya 👋,
 
-<!--
-**SalmanAlfarisy/SalmanAlfarisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nama saya Salman Alfarisy, Saya 20 tahun dari Indonesia.
 
-Here are some ideas to get you started:
+- :arrow_right: Saat ini saya sedang belajar HTML, CSS, JavaScript dan juga UI/UX Design
+- :arrow_right: Pada hari ini saya sedang belajar HTML, CSS, JS dan Juga UI/UX Design di Udemy <img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg"  alt="Udemy" width="40" height="40">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Kemampuan Saya :
+- :arrow_right: HTML -> Expert
+- :arrow_right: CSS -> Intermediate
+- :arrow_right: JS -> Beginner
+- :arrow_right: UI/UX -> Beginner
+
+<h3> Connect With Me : </h3>
+<p align="left">
+ 
+</p>
