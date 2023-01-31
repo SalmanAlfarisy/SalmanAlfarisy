@@ -5,7 +5,7 @@ Saya Salman Alfarisy (he/him) - Saya mahasiswa smt 5, saat ini saya dengan belaj
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,figma&theme=light)
 
 ### Connect With Me : 
-<a href="">![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)</a>
+<a href="https://www.instagram.com/salmanalfarisssy/">![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)</a>
 <a href="https://www.linkedin.com/in/salmanalfarisy/">![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)</a>
 
 
