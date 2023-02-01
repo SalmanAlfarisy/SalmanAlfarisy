@@ -1,6 +1,6 @@
 ### Halo Semuanya 👋,
 
-Saya Salman Alfarisy (he/him) - Saya mahasiswa smt 5, saat ini saya dengan belajar HTML, CSS, JS dan juga UI/UX Design. Kemampuan saya yaitu :
+Saya Salman Alfarisy (he/him) - Saat ini saya dengan belajar HTML, CSS, JS dan juga UI/UX Design. Kemampuan saya yaitu :
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,figma&theme=light)
 
